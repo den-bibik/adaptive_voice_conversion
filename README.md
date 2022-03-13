@@ -1,3 +1,6 @@
+CHANGES
+
+
 # One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization
 This is the official implementation of the paper [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://arxiv.org/abs/1904.05742).
 By separately learning speaker and content representations, we can achieve one-shot VC by only one utterance from source speaker and one utterace from target speaker. 
